@@ -1,5 +1,4 @@
 # Grocery-Shopping-Behavior [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Final Project for Marketing Analytics
 Final project for Big Data I
 
 ## Content
